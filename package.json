@@ -25,7 +25,7 @@
     "@angular/platform-browser-dynamic": "5.0.0",
     "@angular/router": "5.0.0",
     "systemjs": "0.19.39",
-    "core-js": "2.4.1",
+    "core-js": "^3.0.0",
     "rxjs": "5.5.0",
     "zone.js": "0.8.4"
   },
@@ -33,7 +33,7 @@
     "@types/core-js": "0.9.34",
     "@types/node": "6.0.45",
     "concurrently": "2.2.0",
-    "lite-server": "^2.4.0",
+    "lite-server": "^2.5.4",
     "rimraf": "2.5.4",
     "typescript": "2.4.2"
   }
